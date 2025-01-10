@@ -5,6 +5,7 @@
 The name "Backdrop" was first conceived of by Mike McCaffrey.
 
 *(Mike also suggested the Backdrop tagline; "**Put your content center stage**").*
+
 We believe "Backdrop" is a great name for a Content Management System (CMS) software, because, like a backdrop in the arts, it is always there, behind the scenes.
 
 The name "Backdrop" also includes an homage to Drupal, the software that Backdrop was derived from.  Drupal began its life as the code driving drop.com.  Over many years, that software evolved into what we now call Drupal. 
@@ -17,7 +18,7 @@ Backdrop deliberately avoids water analogies and any imagery involving water dro
 ### Use of Project Name in Print
 When referring to the Concept, Team, Community and Effort assembled to produce the software Product known as "Backdrop CMS", the correct terminology to use is "The Backdrop Project" or "the Backdrop Project" depending on sentence placement. In this context, the word Backdrop is always capitalized and a single word.  
 
-## Use of Product Name in Print
+### Use of Product Name in Print
 When referring to the work Product that the Backdrop Project was assembled to produce, the correct terminology in print is "Backdrop CMS", "The Backdrop CMS" or "the Backdrop CMS" depending on sentence placement.  
 
 It should also be noted that the second part Product name, "CMS", serves two purposes:
@@ -54,7 +55,7 @@ This includes all variations of "Wordmark" use, both when it appears alone and w
 *(please also note that while it is possible to reproduce the artwork in print using the 'Source Sans Pro' font (the base font used to generate the "Wordmark" artwork) it impossible to achieve the aesthetic of the "Wordmark" absent making adjustments made to inter-letter spacing (kerning) employed to achieve the accepted "Wordmark" format.  Simulating the "Wordmark" using the 'Source Sans Pro' is therefore not encouraged).*
 
 
-## Physical Arrangement of Artwork
+### Physical Arrangement of Artwork
 Graphically speaking, there are several variations as to how the Backdrop Artwork may be presented:
 
 - Horizontally
@@ -63,21 +64,21 @@ Graphically speaking, there are several variations as to how the Backdrop Artwor
 - Logo only
 
 
-### Horizontally
+#### Horizontally
 When used together horizontally, the Backdrop Product Wordmark ("backdrop") should be positioned to the left of the Logo.
 
 [EXAMPLE IMAGE]()
 
-### Vertically
+#### Vertically
 When used together vertically, the Backdrop product Wordmark ("backdrop") should be positioned below the Logo.
 
 [EXAMPLE IMAGE]()
 
-### Wordmark
+#### Wordmark
 
 [EXAMPLE IMAGE]()
 
-### Logo
+#### Logo
 
 [EXAMPLE IMAGE]()
 
@@ -91,7 +92,12 @@ But, seeing as the "drop" in "Backdrop" is lower case (and part of a single word
 
 Similarly, when referring to the Backdrop Project website, recommended practice is to refer to it as "b.org" (or "borg" for short).  
 
-### Mascot
+### Usage Policy
+
+#### Project Name, Product Name(s), Artwork, Logo(s) & Wordmark(s)
+The Project Name, Product Name, Logo and Wordmark are the sole and exclusive property of The Backdrop Project.  They may not be used by any 3rd parties for any commercial or non-commercial purpose whatsoever without having gained prior permission from the Backdrop Project to do so.
+
+## Mascot
 Drop, the Backdrop mascot, was originally designed by Marc Bovino.  
 
 As the Drupal community has the Druplicon, so the Backdrop community has Drop.  
@@ -104,13 +110,7 @@ The name "Drop" was chosen for several reasons.
 2. "Drop" is a clever way for us to pay homage to Drupal
 3. "Drag-and-drop" is (we feel) a clever and fun play on words
 
+### Usage Policy
 
-## Usage Policy
-
-### Project Name, Product Name(s), Logo(s) & Wordmark(s)
-The Project Name, Product Name, Logo and Wordmark are the sole and exclusive property of The Backdrop Project.  They may not be used by any 3rd parties for any commercial or non-commercial purpose whatsoever without having gained prior permission from the Backdrop Project to do so.
-
-### Drop
-The Backdrop Project offers "Drop" to the community on open terms, meaning that "Drop" name and imagery may (and should!) be used and/or adapted to suit any purpose whatsoever. 
-
-Feel free to make any alterations desired to Drop in terms of their color or posture.  Embroider Drop on a hat.  Silkscreen them on a t-shirt. Use them to represent your product, company, camp, or whatever else you like.
+#### Drop Name & Artwork
+The Backdrop Project offers "Drop" to the community on open terms, meaning that "Drop" name and imagery may (and should!) be used and/or adapted to suit any purpose whatsoever. Anyone, anywhere is free to make any alterations desired to Drop in terms of their color or posture.  Embroider Drop on a hat.  Silkscreen them on a t-shirt. Use them to represent your product, company, camp, or whatever else they like.
