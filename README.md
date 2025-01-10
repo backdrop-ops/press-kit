@@ -37,7 +37,7 @@ The artistic representation and graphical imagery ("Artwork") used to represent 
 ### Logo
 The Backdrop "Logo" is a single regular 1:1 black (RGB: 0,0,0) square with its lower right hand corner peeled back, leaving the reverse white (RGB: 255,255,255) side of the square revealed and appearing as a white triangle:
 
-[EXAMPLE IMAGE]()
+![](https://github.com/ProfessorGram/Backdrop-Brand-Book-Style-Guide-and-Press-Kit/blob/main/Backdrop-Logo-Only/Backdrop-Logo-Only.png)
 
 The Logo design is intended to represent a stylized backdrop similar to those used in the arts, theatre and photography.  Its clean, simple geometric shape is intended to physically reflect the Mission Statement of the Backdrop Project:  
 
@@ -69,7 +69,7 @@ Graphically speaking, there are several variations as to how the Backdrop Artwor
 #### Horizontally
 When used together horizontally, the Backdrop Product Wordmark ("backdrop") should be positioned to the left of the Logo.
 
-[](https://github.com/ProfessorGram/Backdrop-Brand-Book-Style-Guide-and-Press-Kit/blob/main/Backdrop-Logo-Only/Backdrop-Logo-Only.png)
+[]()
 
 #### Vertically
 When used together vertically, the Backdrop product Wordmark ("backdrop") should be positioned below the Logo.
