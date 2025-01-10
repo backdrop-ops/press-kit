@@ -69,7 +69,7 @@ Graphically speaking, there are several variations as to how the Backdrop Artwor
 #### Horizontally
 When used together horizontally, the Backdrop Product Wordmark ("backdrop") should be positioned to the left of the Logo.
 
-[EXAMPLE IMAGE]()
+[](https://github.com/ProfessorGram/Backdrop-Brand-Book-Style-Guide-and-Press-Kit/blob/main/Backdrop-Logo-Only/Backdrop-Logo-Only.png)
 
 #### Vertically
 When used together vertically, the Backdrop product Wordmark ("backdrop") should be positioned below the Logo.
