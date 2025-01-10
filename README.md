@@ -15,10 +15,11 @@ In 2013, the Backdrop Project set out to "backwards port" a number of useful and
 ## General Usage Guidance
 Backdrop deliberately avoids water analogies and any imagery involving water drop shapes, in order to avoid potential confusion with the Drupal project.
 
-### Abbreviations
+### Casual Mention
 In normal conversation, "Backdrop" is often used interchangeably, with the listener resorting to context to determine for themselves whether or not the Project or the Product is being referenced.
 
-But, seeing as the "drop" in "Backdrop" is lower case (and part of a single word to boot) it should never appear in any abbreviations.  The recommended practice when abbreviating the Product name "Backdrop CMS", for use as an acronym or similar, is to simply use "B" or "B CMS"...never "BD".  Similarly, when referring to the Backdrop Project website, the recommended practice is to refer to it as "b.org" (or "borg" for short).  
+### Abbreviations
+Seeing as the "drop" in "Backdrop" is lower case (and part of a single word to boot) it should never appear in any abbreviations.  The recommended practice when abbreviating the Product name "Backdrop CMS", for use as an acronym or similar, is to simply use "B" or "B CMS"...never "BD".  Similarly, when referring to the Backdrop Project website, the recommended practice is to refer to it as "b.org" (or "borg" for short).  
 
 ### Use of Project Name in Print
 When referring to the Concept, Team, Community and Effort assembled to produce the software Product known as "Backdrop CMS", the correct terminology to use is "The Backdrop Project" or "the Backdrop Project" depending on sentence placement. In this context, the word Backdrop is always capitalized and a single word.  
@@ -28,14 +29,10 @@ When referring to the work Product that the Backdrop Project was assembled to pr
 
 It should also be noted that the second part Product name, "CMS", serves two purposes:
 
-First, it is a reference to the category of software products that this Product exists within (Content Management Systems).  
-
-Second, it acts as a qualifier to distinguish this Product from both its sponsoring Project, as well as any other software Products that the sponsoring Project may elect to produce at some time in the future (Examples:  "Backdrop LMS", "Backdrop LLM", "Backdrop WDF").
+First, it is a reference to the category of software products that this Product exists within (Content Management Systems).  Second, it acts as a qualifier to distinguish this Product from both its sponsoring Project, as well as any other software Products that the sponsoring Project may elect to produce at some time in the future (Examples:  "Backdrop LMS", "Backdrop LLM", "Backdrop WDF").
 
 ## Artwork
-The artistic representation and graphical imagery ("Artwork") used to represent the Backdrop Project was designed by Darius Garza.  
-
-It is composed of two distinct parts:  A "Logo" and a "Wordmark".
+The artistic representation and graphical imagery ("Artwork") used to represent the Backdrop Project was designed by Darius Garza.  It is composed of two distinct parts:  A "Logo" and a "Wordmark".
 
 ### Logo
 The Backdrop "Logo" is a single regular 1:1 black (RGB: 0,0,0) square with its lower right hand corner peeled back, leaving the reverse white (RGB: 255,255,255) side of the square revealed and appearing as a white triangle:
@@ -96,11 +93,7 @@ Both the Product and the Project may be referred to in casual conversation as "B
 The Project Name, Product Name, Logo and Wordmark are the sole and exclusive property of The Backdrop Project.  They may not be used by any 3rd parties for any commercial or non-commercial purpose whatsoever without having gained prior permission from the Backdrop Project to do so.
 
 ## Mascot
-Drop, the Backdrop mascot, was originally designed by Marc Bovino.  
-
-As the Drupal community has the Druplicon, so the Backdrop community has Drop.  
-
-They are a small friendly dragon, of the type we lovingly refer to as a "lap dragon". 
+Drop, the Backdrop mascot, was originally designed by Marc Bovino.  As the Drupal community has the Druplicon, so the Backdrop community has Drop.  Drop is a small friendly dragon, of the type we lovingly refer to as a "lap dragon". 
 
 The name "Drop" was chosen for several reasons. 
 
