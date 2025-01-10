@@ -1,4 +1,4 @@
-# Backdrop Brand Book, Style Guide & Press Kit
+# Backdrop Brand Book, Style Guide and Press Kit
 
 
 ## Backdrop Brand Name Origin Story
