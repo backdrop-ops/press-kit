@@ -15,6 +15,11 @@ In 2013, the Backdrop Project set out to "backwards port" a number of useful and
 ## General Usage Guidance
 Backdrop deliberately avoids water analogies and any imagery involving water drop shapes, in order to avoid potential confusion with the Drupal project.
 
+### Abbreviations
+In normal conversation, "Backdrop" is often used interchangeably, with the listener resorting to context to determine for themselves whether or not the Project or the Product is being referenced.
+
+But, seeing as the "drop" in "Backdrop" is lower case (and part of a single word to boot) it should never appear in any abbreviations.  The recommended practice when abbreviating the Product name "Backdrop CMS", for use as an acronym or similar, is to simply use "B" or "B CMS"...never "BD".  Similarly, when referring to the Backdrop Project website, the recommended practice is to refer to it as "b.org" (or "borg" for short).  
+
 ### Use of Project Name in Print
 When referring to the Concept, Team, Community and Effort assembled to produce the software Product known as "Backdrop CMS", the correct terminology to use is "The Backdrop Project" or "the Backdrop Project" depending on sentence placement. In this context, the word Backdrop is always capitalized and a single word.  
 
@@ -84,13 +89,6 @@ When used together vertically, the Backdrop product Wordmark ("backdrop") should
 
 ## Disambiguation
 Both the Product and the Project may be referred to in casual conversation as "Backdrop".  This can sometimes lead to confusion as to "which Backdrop?" is being referred to.  When a need for disambiguation arises, the full Product name ("Backdrop CMS") and/or full Project name ("Backdrop Project") should be used.
-
-### Abbreviations
-In normal conversation, "Backdrop" is often used interchangeably, with the listener resorting to context to determine for themselves whether or not the Project or the Product is being referenced.
-
-But, seeing as the "drop" in "Backdrop" is lower case (and part of a single word to boot) it should never appear in any abbreviations.  The recommended practice when abbreviating the Product name "Backdrop CMS", for use as an acronym or similar, is to simply use "B" or "B CMS"...never "BD".  
-
-Similarly, when referring to the Backdrop Project website, recommended practice is to refer to it as "b.org" (or "borg" for short).  
 
 ### Usage Policy
 
