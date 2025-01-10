@@ -4,8 +4,7 @@
 ## Backdrop Brand Name Origin Story
 The name "Backdrop" was first conceived of by Mike McCaffrey.
 
-***(Mike also suggested the Backdrop tagline; "Put your content center stage").***
-
+*(Mike also suggested the Backdrop tagline; "**Put your content center stage**").*
 We believe "Backdrop" is a great name for a Content Management System (CMS) software, because, like a backdrop in the arts, it is always there, behind the scenes.
 
 The name "Backdrop" also includes an homage to Drupal, the software that Backdrop was derived from.  Drupal began its life as the code driving drop.com.  Over many years, that software evolved into what we now call Drupal. 
