@@ -37,7 +37,7 @@ The artistic representation and graphical imagery ("Artwork") used to represent 
 ### Logo
 The Backdrop "Logo" is a single regular 1:1 black (RGB: 0,0,0) square with its lower right hand corner peeled back, leaving the reverse white (RGB: 255,255,255) side of the square revealed and appearing as a white triangle:
 
-![](https://github.com/ProfessorGram/Backdrop-Brand-Book-Style-Guide-and-Press-Kit/blob/main/Images/Backdrop-Logo-Only/Backdrop-Logo-Only.png)
+![](https://github.com/ProfessorGram/Backdrop-Brand-Book-Style-Guide-and-Press-Kit/blob/main/Images/Backdrop-Logo-Only/Backdrop-Logo-Only-White.png)
 
 The Logo design is intended to represent a stylized backdrop similar to those used in the arts, theatre and photography.  Its clean, simple geometric shape is intended to physically reflect the Mission Statement of the Backdrop Project:  
 
@@ -50,7 +50,7 @@ The most notable consideration with respect to the "Wordmark", is capitalization
 
 Exceptionally, the word "Backdrop", when used in graphical form, features an initial "b" that is lower case:
 
-![](https://github.com/ProfessorGram/Backdrop-Brand-Book-Style-Guide-and-Press-Kit/blob/main/Images/Backdrop-Wordmark-Only/Backdrop-Wordmark-Only.png)
+![](https://github.com/ProfessorGram/Backdrop-Brand-Book-Style-Guide-and-Press-Kit/blob/main/Images/Backdrop-Wordmark-Only/Backdrop-Wordmark-Only-White.png)
 
 This includes all variations of "Wordmark" use, both when it appears alone and when it is paired with the Backdrop "Logo".  
 
@@ -69,20 +69,20 @@ Graphically speaking, there are several variations as to how the Backdrop Artwor
 #### Horizontally
 When used together horizontally, the Backdrop Product Wordmark ("backdrop") should be positioned to the left of the Logo.
 
-![](https://github.com/ProfessorGram/Backdrop-Brand-Book-Style-Guide-and-Press-Kit/blob/main/Images/Backdrop-Artwork-Horizontal/Backdrop-Artwork-Horizontal.png)
+![](https://github.com/ProfessorGram/Backdrop-Brand-Book-Style-Guide-and-Press-Kit/blob/main/Images/Backdrop-Artwork-Horizontal/Backdrop-Artwork-Horizontal-White.png)
 
 #### Vertically
 When used together vertically, the Backdrop product Wordmark ("backdrop") should be positioned below the Logo.
 
-![](https://github.com/ProfessorGram/Backdrop-Brand-Book-Style-Guide-and-Press-Kit/blob/main/Images/Backdrop-Artwork-Vertical/Backdrop-Artwork-Vertical.png)
+![](https://github.com/ProfessorGram/Backdrop-Brand-Book-Style-Guide-and-Press-Kit/blob/main/Images/Backdrop-Artwork-Vertical/Backdrop-Artwork-Vertical-White wh.png)
 
 #### Wordmark Only
 
-![](https://github.com/ProfessorGram/Backdrop-Brand-Book-Style-Guide-and-Press-Kit/blob/main/Images/Backdrop-Wordmark-Only/Backdrop-Wordmark-Only.png)
+![](https://github.com/ProfessorGram/Backdrop-Brand-Book-Style-Guide-and-Press-Kit/blob/main/Images/Backdrop-Wordmark-Only/Backdrop-Wordmark-Only-White.png)
 
 #### Logo Only
 
-![](https://github.com/ProfessorGram/Backdrop-Brand-Book-Style-Guide-and-Press-Kit/blob/main/Images/Backdrop-Logo-Only/Backdrop-Logo-Only.png)
+![](https://github.com/ProfessorGram/Backdrop-Brand-Book-Style-Guide-and-Press-Kit/blob/main/Images/Backdrop-Logo-Only/Backdrop-Logo-Only-White.png)
 
 ## Disambiguation
 Both the Product and the Project may be referred to in casual conversation as "Backdrop".  This can sometimes lead to confusion as to "which Backdrop?" is being referred to.  When a need for disambiguation arises, the full Product name ("Backdrop CMS") and/or full Project name ("Backdrop Project") should be used.
