@@ -5,7 +5,7 @@
 ### Backdrop Brand Origin Story
 The name "Backdrop" was first conceived of by Mike McCaffrey.
 
-*(Mike also suggested the Backdrop tagline; "**Put your content center stage**").*
+*Mike also suggested the Backdrop tagline; "**Put your content center stage**"*
 
 We believe "Backdrop" is a great name for a Content Management System (CMS) software, because, like a backdrop in the arts, it is always there, behind the scenes.
 
@@ -103,7 +103,7 @@ When used together horizontally, the Backdrop Product Wordmark ("backdrop") shou
 #### Vertically
 When used together vertically, the Backdrop product Wordmark ("backdrop") should be positioned below the Logo.
 
-![](https://github.com/ProfessorGram/Backdrop-Brand-Book-Style-Guide-and-Press-Kit/blob/main/Images/Backdrop-Artwork-Vertical/Backdrop-Artwork-Vertical-White wh.png)
+![](https://github.com/ProfessorGram/Backdrop-Brand-Book-Style-Guide-and-Press-Kit/blob/main/Images/Backdrop-Artwork-Vertical/Backdrop-Artwork-Vertical-White.png)
 
 #### Wordmark Only
 
