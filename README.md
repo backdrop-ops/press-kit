@@ -1,3 +1,6 @@
+This is currently a draft, provided by Professor Graham Leach, with some new language that needs review and approval.
+Please, feel free to submit PR's or open issues in the issue queue.
+
 # Backdrop Brand Book, Style Guide and Press Kit
 
 ## Brand Book & Style Guide
